@@ -11,6 +11,6 @@
 
 <h2 align="center">Github Stat</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jw910731&show_icons=true&locale=en&layout=compact" alt="jw910731" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jw910731&show_icons=true" alt="jw910731" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jw910731&show_icons=true&locale=en" alt="jw910731" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jw910731&show_icons=true" alt="jw910731" /></p>
